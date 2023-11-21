@@ -1,3 +1,4 @@
+![](assets/a_head.png)
 ### Hi there 👋
 
 I'm a budding software tester🕵️‍♂️🔥
